@@ -7,5 +7,5 @@
 3. Use Jupyter notebook
 
 #### Note
-The network is create for demonstration propose, the actual accuracy is fuzzy and heavily depends on initial weights numbers.
-You can do your own experiment calibrating  initial weights.
+The network created for demonstration propose, the actual accuracy is fuzzy and heavily depends on initial weights numbers.
+You can do your own experiment calibrating initial weights.
