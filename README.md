@@ -3,7 +3,7 @@
 #### How to run
 
 1. Set up Anaconda env.
-2. Download minst ds from https://www.kaggle.com/oddrationale/mnist-in-csv and place into MNIST folder
+2. Download minst ds from https://www.kaggle.com/oddrationale/mnist-in-csv and place into /mnist folder
 3. Use Jupyter notebook
 
 #### Note
